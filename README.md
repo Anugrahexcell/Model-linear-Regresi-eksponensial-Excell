@@ -1,0 +1,1 @@
+# Model-linear-Regresi-eksponensial-Excell
